@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color:black;
+    font-size:xx-large;
+    font-family: 'CirqueeRegular';
+    font-weight: normal;
+    font-style: normal;
+    
+}
+h2{
+    text-align: center;
+    color:black;
+    font-family: 'WaltographRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+p{
+    color:black;
+    text-align:left;
+    font-family: 'CodeNewRomanRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+h4{
+    text-align:justify;
+    font-family: 'CodeNewRomanRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+th{
+    text-align: center;
+    font-family: 'CodeNewRomanRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+tr{
+    text-align: center;
+    font-family: 'CodeNewRomanRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+td{
+    text-align: center;
+    font-size:x-small;
+    font-family: 'CodeNewRomanRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+img{
+    text-align: center;
+}
